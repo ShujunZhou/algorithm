@@ -1,9 +1,3 @@
-/*20160509 ShujunZhou
- * 给出一个链表L和另一个链表P，他们包含以升序排列的整数。操作PrintLows(L, P)
- * 将打印L中的那些由P所指向的位置上的元素。例如p=1,3,4,6那么，L中的第一，三，
- * 四，六个元素被打印出来。
- * */
-
 # include <stdio.h>
 # include <stdlib.h>
  
